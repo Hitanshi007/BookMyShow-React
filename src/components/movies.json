@@ -1,0 +1,42 @@
+[
+    {
+        "id": 1,
+        "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-ODclICA0MzVrIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70/et00129538-dejcsesrba-portrait.jpg",
+        "title": "Pushpa: The Rise - Part 01"
+    },
+    {
+        "id": 2,
+        "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-ODklICAxMTlrIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70/et00062705-zfvpwbzbjm-portrait.jpg",
+        "title": "83"
+    },
+    {
+        "id": 3,
+        "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzglICAyMGsgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00145956-pfxrtruxwq-portrait.jpg",
+        "title": "Chandigarh Kare Aashiqui"
+    },
+    {
+        "id": 4,
+        "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NzYlICAxayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00314396-qssztupdjc-portrait.jpg",
+        "title": "Shava Ni Girdhari Lal"
+    },
+    {
+        "id": 5,
+        "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-OTElICA0MThrIHZvdGVz,ots-29,otc-FFFFFF,oy-612,ox-70/et00310790-uvlrzmclaj-portrait.jpg",
+        "title": "Spider-Man: No Way Home"
+    },
+    {
+        "id": 6,
+        "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-OTMlICAyayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00124647-hzqmyyjtkd-portrait.jpg",
+        "title": "Shooter"
+    },
+    {
+        "id": 7,
+        "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-NjYlICA4ayB2b3Rlcw%3D%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00133391-bpdbkjmlrj-portrait.jpg",
+        "title": "The Matrix Resurrections"
+    },
+    {
+        "id": 8,
+        "image": "https://in.bmscdn.com/discovery-catalog/events/tr:w-400,h-600,bg-CCCCCC:w-400.0,h-660.0,cm-pad_resize,bg-000000,fo-top:oi-discovery-catalog@@icons@@heart_202006300400.png,ox-24,oy-617,ow-29:ote-ODIlICAzMGsgdm90ZXM%3D,ots-29,otc-FFFFFF,oy-612,ox-70/et00316733-bhgbvzmcup-portrait.jpg",
+        "title": "Bangarraju"
+    }
+]
